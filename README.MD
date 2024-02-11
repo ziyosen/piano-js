@@ -1,4 +1,4 @@
-## Boas-vindas ao **Simulador de Paino**!
+## Boas-vindas ao **Simulador de Piano**!
 
 ```
   #game-development

@@ -14,7 +14,7 @@ Um projeto que, além do entretenimento, demonstra várias técnicas avançadas 
 
 Aqui, no repositório, você encontrará os arquivos do projeto.
 
-Nesta [página](https://netopaiva.github.io/piano-js/) você poderá se divertir com o *piano*.
+Nesta [página](https://agus-main-piano.github.io/piano-js/) você poderá se divertir com o *piano*.
 
 
 ### Tecnologias Utilizadas

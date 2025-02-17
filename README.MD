@@ -34,4 +34,4 @@ Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innov
 
 ---
 
-Divirta-se [com o **piano**](https://netopaiva.github.io/piano-js/) enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/felipeAguiarCode/js-music-keyboard-virtual) e deixar uma ⭐️ se você gostou do projeto!
+Divirta-se [com o **piano**](https://agus-main-piano.github.io/piano-js/) enquanto explora as técnicas modernas de desenvolvimento de jogos em JavaScript. Lembre-se de conferir o repositório original [aqui](https://github.com/felipeAguiarCode/js-music-keyboard-virtual) e deixar uma ⭐️ se você gostou do projeto!
